@@ -1,0 +1,9 @@
+# ndoe_modules
+node_modules
+
+# build
+build
+
+# enviornmental variables
+.env
+.env.local
